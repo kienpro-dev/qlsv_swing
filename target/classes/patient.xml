@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patients>
+    <patient>
+        <id>1</id>
+        <name>Mai Thanh Toan</name>
+        <symptoms>Dau bung, buon non</symptoms>
+        <diagnosis>Tieu chay</diagnosis>
+        <indications>Khong co</indications>
+        <conclusions>Tieu chay</conclusions>
+        <prescriptions>Berberin 2, Codein 1</prescriptions>
+    </patient>
+    <patient>
+        <id>2</id>
+        <name>Vinh The Mac</name>
+        <symptoms>Sot cao, ho</symptoms>
+        <diagnosis>Sot</diagnosis>
+        <indications>Khong co</indications>
+        <conclusions>Covid</conclusions>
+        <prescriptions>Thuoc ha sot</prescriptions>
+    </patient>
+</patients>
